@@ -1,0 +1,3 @@
+[submodule "vms-backend"]
+	path = vms-backend
+	url = git@github.com:hasithar/vms-backend.git
